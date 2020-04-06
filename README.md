@@ -4,9 +4,8 @@
 
 |||
 |:---|:---|
-|Name|Ren Ishida|
 |Age|24|
-|Birthplace|Niigata|
+|Birthplace|Japan/Niigata|
 
 # 開発言語
 * JavaScript
