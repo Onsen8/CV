@@ -2,9 +2,17 @@
 
 # 基本情報
 
-|Age|24|
-|Birthplace|Japan|
+|key|value|
 |:---|:---|
+|Birth|1995|
+|Birthplace|Japan|
+
+# 資格
+
+|資格名|取得年月|
+|:---|:---|
+|-|-|
+
 
 # 開発言語
 * JavaScript
