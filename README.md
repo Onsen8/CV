@@ -2,10 +2,9 @@
 
 # 基本情報
 
-|||
-|:---|:---|
 |Age|24|
-|Birthplace|Japan/Niigata|
+|Birthplace|Japan|
+|:---|:---|
 
 # 開発言語
 * JavaScript
