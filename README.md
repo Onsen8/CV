@@ -1,14 +1,12 @@
-# CV
+# 経歴
 
 # 基本情報
-
-|key|value|
+|項目|内容|
 |:---|:---|
-|Birth|1995|
-|Birthplace|Japan|
+|誕生年|1995|
+|国籍|日本|
 
 # 資格
-
 |資格名|取得年月|
 |:---|:---|
 |-|-|
@@ -16,7 +14,10 @@
 
 # 開発言語
 * JavaScript
+	* jQuery
+	* Vue.js
 * PHP
+	* Laravel
 
 # 開発環境
 * Gulp
