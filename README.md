@@ -17,18 +17,14 @@
 |:---|:---|
 |-|-|
 
-
 # 開発言語
 * JavaScript
-	* jQuery
-	* Vue.js
 * PHP
-	* Laravel
 
 # 開発環境
+* Git
 * Gulp
 * Webpack
-* Git
 * Vagrant
 
 # 趣味
