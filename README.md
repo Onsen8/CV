@@ -20,6 +20,7 @@
 # 開発言語
 * JavaScript
 * PHP
+* Java（学習中）
 
 # 開発環境
 * Git
