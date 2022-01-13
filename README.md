@@ -21,6 +21,7 @@
 * JavaScript
 * PHP
 * Java（学習中）
+* C（学習中）
 
 # 開発環境
 * Git
