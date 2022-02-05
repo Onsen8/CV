@@ -20,24 +20,26 @@
 
 # 開発言語
 * JavaScript
+	* ライブラリ
+		* jQuery
 * PHP
 * Java（学習中）
 * C（学習中）
 
 # 開発環境
-## バージョン管理
-* Git
+* バージョン管理
+	* Git
 
-## タスクランナー
-* Gulp
-* Webpack
+* タスクランナー
+	* Gulp
+	* Webpack
 
-## 環境構築
-* Docker（学習中）
-* Vagrant
+* 環境構築
+	* Docker（学習中）
+	* Vagrant
 
-## CI/CD
-* Jenkins（学習中）
+* CI/CD
+	* Jenkins（学習中）
 
 # 興味
 * インフラ設計・構築
