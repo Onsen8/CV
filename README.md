@@ -20,9 +20,12 @@
 
 # 開発言語
 * JavaScript
+	* フレームワーク
 	* ライブラリ
 		* jQuery
 * PHP
+	* フレームワーク
+		* Laravel
 * Java（学習中）
 * C（学習中）
 
