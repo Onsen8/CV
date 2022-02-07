@@ -1,5 +1,7 @@
 # 履歴書
 
+![DSC_0191](https://user-images.githubusercontent.com/27880015/152759978-156992fc-37ac-49b7-be4b-466152e27884.JPG)
+
 # 基本情報
 |項目|内容|
 |:---|:---|
