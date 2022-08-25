@@ -30,11 +30,11 @@
 * PHP
 	* フレームワーク
 		* Laravel
-* Java（学習中）
+* Java
 	* フレームワーク
 		* Spring Boot
-* C（学習中）
-* VBA（学習中）
+* C
+* VBA
 
 # 開発環境
 * バージョン管理
@@ -49,12 +49,12 @@
 	* Redmine
 
 * 環境構築
-	* Docker（学習中）
+	* Docker
 	* Vagrant
 
 * CI/CD
-	* Jenkins（学習中）
-	* CircleCI（学習中）
+	* Jenkins
+	* CircleCI
 
 # 興味
 ## 技術
