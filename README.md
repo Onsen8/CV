@@ -24,7 +24,8 @@
 # 開発言語
 * JavaScript
 	* フレームワーク
-		* React
+		* React.js
+		* Vue.js
 	* ライブラリ
 		* jQuery
 * PHP
@@ -48,9 +49,16 @@
 	* Backlog
 	* Redmine
 
+* OS
+	* Linux
+	* Windows
+
 * 環境構築
 	* Docker
 	* Vagrant
+
+* データベース
+	* MySQL
 
 * CI/CD
 	* Jenkins
