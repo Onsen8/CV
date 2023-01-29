@@ -28,19 +28,17 @@
 * シェルスクリプト
 
 # 開発環境
-* バージョン管理
-	* Git
-
 * OS
 	* Linux
 	* Windows
 
 * 環境構築
-	* Docker
+	* VirtualBox
 	* Vagrant
+	* Docker
 
-* データベース
-	* MySQL
+* バージョン管理
+	* Git
 
 # 興味
 * 技術
