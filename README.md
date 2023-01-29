@@ -22,18 +22,7 @@
 |LPIC1|202301|
 
 # 開発言語
-* JavaScript
-	* フレームワーク
-		* React.js
-		* Vue.js
-	* ライブラリ
-		* jQuery
-* PHP
-	* フレームワーク
-		* Laravel
 * Java
-	* フレームワーク
-		* Spring Boot
 * C
 * VBA
 * シェルスクリプト
@@ -41,14 +30,6 @@
 # 開発環境
 * バージョン管理
 	* Git
-
-* タスクランナー
-	* Gulp
-	* Webpack
-
-* タスク管理
-	* Backlog
-	* Redmine
 
 * OS
 	* Linux
@@ -61,16 +42,12 @@
 * データベース
 	* MySQL
 
-* CI/CD
-	* Jenkins
-	* CircleCI
-
 # 興味
 * 技術
 	* インフラ設計・構築
 	* システム運用
 	* セキュリティ
-	* コンピュータアーキテクチャ
+	* コンピュータアーの仕組み
 
 * ビジネススキル
 	* ファシリテーション
