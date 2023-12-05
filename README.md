@@ -26,6 +26,8 @@
 					* バックアップ：Arcserve UDP
 					* UPS管理：Power Chute
 				* 機器
+					* HPE：Proliant
+					* Dell：PowerEdge
 			* 部署内のシステム構築チームのサポート
 			* 社内サーバの更改に参加
 				* 非機能要件、運用設計を担当
