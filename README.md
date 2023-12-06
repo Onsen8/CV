@@ -28,6 +28,8 @@
 				* 機器
 					* HPE：Proliant
 					* Dell：PowerEdge
+					* Buffalo：TeraStation
+					* Schneider Electric：UPS
 			* 部署内のシステム構築チームのサポート
 			* 社内サーバの更改に参加
 				* 非機能要件、運用設計を担当
@@ -60,6 +62,9 @@
 
 * プロジェクト管理
 	* Redmine
+
+* 監視ツール
+	* Zabbix
 
 # 興味
 * 技術
