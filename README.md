@@ -1,6 +1,6 @@
 # 履歴書
 
-![Test Image 1](img/icon.jpg)
+![Test Image](img/icon.jpg)
 
 # 職歴
 * 201904-202003
