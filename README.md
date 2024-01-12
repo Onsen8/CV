@@ -24,12 +24,12 @@
 			* 自社で構築したシステム、導入した製品の運用保守
 				* ソフトウェア
 					* バックアップ：Arcserve UDP
-					* UPS管理：Power Chute
+					* UPS管理：Power Chute Network Shutdown
 				* 機器
 					* HPE：Proliant
 					* Dell：PowerEdge
 					* Buffalo：TeraStation
-					* Schneider Electric：UPS
+					* Schneider Electric：Smart-UPS
 			* 部署内のシステム構築チームのサポート
 			* 社内サーバの更改に参加
 				* 非機能要件、運用設計を担当
